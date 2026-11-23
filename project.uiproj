@@ -1,0 +1,6 @@
+{
+  "Name": "Weathcer_Check_Bot",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
